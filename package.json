@@ -1,0 +1,25 @@
+{
+  "name": "commerce-cli-app",
+  "version": "1.0.0",
+  "description": "This is a CLI app that allows the user to search a virtual store for information on various items.",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamintownsend02/Commerce-CLI-App.git"
+  },
+  "author": "benjamintownsend02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjamintownsend02/Commerce-CLI-App/issues"
+  },
+  "homepage": "https://github.com/benjamintownsend02/Commerce-CLI-App#readme"
+}
