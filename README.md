@@ -7,9 +7,9 @@ The user is prompted to choose an id and a quantity to purchase. If the requeste
 The user is then presented with the initial prompt again.
 
 The following screenshots walk through an example use case:  
-![Customer Step 1](https://github.com/benjamintownsend02/Commerce-CLI-App/tree/master/Screenshots/customer_use_1.PNG)
-![Customer Step 2](https://github.com/benjamintownsend02/Commerce-CLI-App/tree/master/Screenshots/customer_use_2.PNG)
-![Customer Step 3](https://github.com/benjamintownsend02/Commerce-CLI-App/tree/master/Screenshots/customer_use_3.PNG)
+![Customer Step 1](https://github.com/benjamintownsend02/Commerce-CLI-App/blob/master/Screenshots/customer_use_1.PNG)
+![Customer Step 2](https://github.com/benjamintownsend02/Commerce-CLI-App/blob/master/Screenshots/customer_use_2.PNG)
+![Customer Step 3](https://github.com/benjamintownsend02/Commerce-CLI-App/blob/master/Screenshots/customer_use_3.PNG)
 
 ## Dependencies
 LIRI requires the following node modules:
