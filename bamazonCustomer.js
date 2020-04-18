@@ -5,11 +5,11 @@ var Table = require("cli-table");
 var connection = mysql.createConnection({
   host: "localhost",
 
-  port: 3306,
+  port: process.env.PORT || 3306,
 
   user: "root",
-  //@TODO: NOTE: Password left as placeholder "password" for security purposes
-  password: "Dangercloseuglynose1!",
+  //NOTE: Password left as placeholder "password" for security purposes
+  password: "password",
   database: "bamazon"
 });
 
