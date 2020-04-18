@@ -14,4 +14,3 @@ CREATE TABLE products (
 );
 
 SELECT * FROM products;
--- DELETE FROM products WHERE item_id=11;
